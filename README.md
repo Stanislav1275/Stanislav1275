@@ -1,4 +1,5 @@
 <div style="background-color: white;">
+  <img src="https://dailyillini.com/wp-content/uploads/2017/04/arm-orange-4-01-Recovered.gif" align="right" width="400"/>
   <h1 align="center">Hi 👋, I'm Aristov Stanislav, ak - CocktaiL</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
