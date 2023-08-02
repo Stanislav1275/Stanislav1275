@@ -1,4 +1,4 @@
-<div style={{"background-color":"white"}}>
+<div style="background-color: white;">
   <h1 align="center">Hi 👋, I'm Aristov Stanislav, ak - CocktaiL</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
