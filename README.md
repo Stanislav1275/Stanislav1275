@@ -15,7 +15,7 @@
         </svg>
         <a href="https://www.gnu.org/software/bash/"
            rel="noreferrer" target="_blank">
-            <img
+            <img style="background-color:red; border-radius:10"
                     alt="bash" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
                     width="40"/>
         </a>
