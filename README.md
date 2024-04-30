@@ -71,12 +71,7 @@
                 alt="mysql"
                 height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                width="40"/> </a> <a href="https://nestjs.com/" rel="noreferrer"
-                                     target="_blank"> <img
-                alt="nestjs"
-                height="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-                width="40"/> </a> <a href="https://nextjs.org/" rel="noreferrer"
+                width="40"/> </a>  <a href="https://nextjs.org/" rel="noreferrer"
                                      target="_blank"> <img
                 alt="nextjs" height="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/> </a> <a
                 href="https://www.nginx.com" rel="noreferrer" target="_blank"> <img
