@@ -79,7 +79,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             width="40"/> </a> <a href="https://nextjs.org/" rel="noreferrer"
                                  target="_blank"> <img
-            alt="nextjs" height="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/> </a> <a
+            alt="nextjs" height="40" src="https://www.svgrepo.com/show/306466/next-dot-js.svg" width="40"/> </a> <a
             href="https://www.nginx.com" rel="noreferrer" target="_blank"> <img
             alt="nginx"
             height="40"
