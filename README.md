@@ -3,14 +3,14 @@
          width="400"/>
     <h1 align="center">Hi 👋, I'm Aristov Stanislav, aka - CocktaiL</h1>
     <h3 align="center">A passionate frontend developer from Russia</h3>
-
+    
     - 📫 How to reach me - telegram **@cokta1l**
-
-    <h3 align="left">Connect with me: <a href="https://web.telegram.org/k/#@cokta1l">tg</a></h3>
+    
+<h3 align="left">Connect with me: <a href="https://web.telegram.org/k/#@cokta1l">tg</a></h3>
     <p align="left">
     </p>
 
-    <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
     <div style="background-color: rgba(253,253,253,0.56)" align="left"><a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank"> 
         <img
             alt="bash" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/> </a>
