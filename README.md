@@ -1,4 +1,4 @@
-<div style="background-color: white !important;">
+[<div style="background-color: white !important;">
     <img align="right" src="https://dailyillini.com/wp-content/uploads/2017/04/arm-orange-4-01-Recovered.gif"
          width="400"/>
     <h1 align="center">Hi 👋, I'm Aristov Stanislav, aka - CocktaiL</h1>
@@ -97,3 +97,4 @@
                 height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/> </a></div>
 
 </div>
+](https://web.telegram.org/k/#@cokta1l)
