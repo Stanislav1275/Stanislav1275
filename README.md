@@ -1,16 +1,18 @@
-<div style="background-color: white !important">
-    <img  src="https://dailyillini.com/wp-content/uploads/2017/04/arm-orange-4-01-Recovered.gif" align="right" width="400"/>
-  <h1 align="center">Hi 👋, I'm Aristov Stanislav, aka - CocktaiL</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<div style="background-color: white !important;">
+    <img align="right" src="https://dailyillini.com/wp-content/uploads/2017/04/arm-orange-4-01-Recovered.gif"
+         width="400"/>
+    <h1 align="center">Hi 👋, I'm Aristov Stanislav, aka - CocktaiL</h1>
+    <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 📫 How to reach me - telegram **@cokta1l**
+    - 📫 How to reach me - telegram **@cokta1l**
 
-<h3 align="left">Connect with me: <a href="https://web.telegram.org/k/#@cokta1l">@cokta</a></h3>
-<p align="left">
-</p>
+    <h3 align="left">Connect with me: <a href="https://web.telegram.org/k/#@cokta1l">tg</a></h3>
+    <p align="left">
+    </p>
 
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left"><a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank"> <img
+    <h3 align="left">Languages and Tools:</h3>
+    <div style="background-color: rgba(253,253,253,0.56)" align="left"><a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank"> 
+        <img
             alt="bash" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/> </a>
         <a href="https://getbootstrap.com" rel="noreferrer" target="_blank"> <img
                 alt="bootstrap"
@@ -92,6 +94,6 @@
                 height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> </a> <a href="https://vuejs.org/" rel="noreferrer"
                                                                   target="_blank"> <img
                 alt="vuejs"
-                height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/> </a></p>
+                height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/> </a></div>
 
 </div>
