@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me: <a href="https://web.telegram.org/k/#@cokta1l">link</a></h3>
     <h3 align="left">Languages and Tools:</h3>
-    <div align="left" style="background-color: rgba(253,253,253,0.56)"><a href="https://www.gnu.org/software/bash/"
+    <div align="left" style="background-color: rgba(253,253,253,0.56) !important"><a href="https://www.gnu.org/software/bash/"
                                                                           rel="noreferrer" target="_blank">
         <img
                 alt="bash" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
