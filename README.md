@@ -5,8 +5,20 @@
     - 📫 How to reach me - https://web.telegram.org/k/#@cokta1l
 
 <h3 align="left">Connect with me: <a href="https://web.telegram.org/k/#@cokta1l">link</a></h3>
-    <h3 align="left">Languages and Tools:</h3>
-    <div align="left" style="background-color: rgba(253,253,253,0.56)">
+    <h3 align="left">Languages and Tools in short:
+        <p>React.js</p>
+        <p>Typescript</p>
+     <p>Next.js</p>   
+        <p>ReactQuery</p>
+        <p>Radix</p>
+        <p>Tailwind</p>
+        <p>CSS, Tailwind and etc</p>
+        <p>ZOD</p>
+        <p>Zustand</p>
+        <p>Redux</p>
+        <p>Vue + pinia</p>
+</h3>
+<div align="left" style="background-color: rgba(253,253,253,0.56)">
         <svg height="100%" width="100%" xmlns="http://www.w3.org/2000/svg">
             <rect fill="#6C63FF" height="100%" width="100%"/>
         </svg>
