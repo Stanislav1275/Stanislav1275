@@ -118,8 +118,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
             width="40"/> </a> <a href="https://spring.io/" rel="noreferrer" target="_blank"> <img
             alt="spring" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-    </a> <a href="https://www.sqlite.org/" rel="noreferrer" target="_blank"> <img
-            alt="sqlite" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+    </a> 
     </a> <a href="https://www.tensorflow.org" rel="noreferrer" target="_blank"> <img
             alt="tensorflow" height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
             width="40"/> </a> <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank"> <img
