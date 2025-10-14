@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Aristov Stanislav, aka - CocktaiL</h1>
     <h3 align="center">A passionate frontend developer from Russia</h3>
     
-    - 📫 How to reach me - https://web.telegram.org/k/#@cokta1l
+    - 📫 How to reach me - https://web.telegram.org/k/#@separater2000
 
 <h3 align="left">Connect with me: <a href="https://web.telegram.org/k/#@cokta1l">link</a></h3>
     <h3 align="left">Languages and Tools in short:
